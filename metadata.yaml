@@ -1,0 +1,30 @@
+_repo: The-silent-cabin_74922
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Post, Evan Merritt
+    alias: Post, Evan Merrit
+    gutenberg_agent_id: '57732'
+    url: http://www.gutenberg.org/2009/agents/57732
+description: ''
+gutenberg_issued: '2024-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74922'
+language: en
+pgterms:marc905: 20241025065754post
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bDoubleday, Page & Co., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Produced from the November 26, 1926 issue of Short Stories magazine.
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Alaska -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The silent cabin
+url: http://www.gutenberg.org/ebooks/74922
